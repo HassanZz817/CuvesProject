@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap");
+* {
+  margin: 0;
+  font-family: "Prompt", sans-serif;
+}
+body {
+  color: white;
+  background: #202731;
+  font-family: "Prompt", sans-serif;
+}
+section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 400px;
+  padding: 100px 20vh;
+}
+
+.blue {
+  background: #4470ad;
+}
+.pink {
+  background: #c76b98;
+}
+.red {
+  background: #ad363c;
+}
+.purple {
+  background: #746abd;
+}
+.dark {
+  background: #0f0f10;
+}
+.yellow {
+  background: #f3e496;
+}
+.green {
+  background: #92d293;
+}
+
+.black_wave {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.black_wave svg {
+  position: relative;
+  display: block;
+  width: calc(131% + 1.3px);
+  height: 271px;
+}
+
+.black_wave .shape-fill {
+  fill: #1d1d1d;
+}
+
+.custom-shape-divider-top-1642998818 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1642998818 svg {
+  position: relative;
+  display: block;
+  width: calc(160% + 1.3px);
+  height: 118px;
+}
+
+.custom-shape-divider-top-1642998818 .shape-fill {
+  fill: #4470ad;
+}
+.custom-shape-divider-top-1642999047 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1642999047 svg {
+  position: relative;
+  display: block;
+  width: calc(114% + 1.3px);
+  height: 102px;
+}
+
+.custom-shape-divider-top-1642999047 .shape-fill {
+  fill: #c76b98;
+}
+.custom-shape-divider-top-1642999086 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1642999086 svg {
+  position: relative;
+  display: block;
+  width: calc(190% + 1.3px);
+  height: 99px;
+}
+
+.custom-shape-divider-top-1642999086 .shape-fill {
+  fill: #746abd;
+}
+.custom-shape-divider-top-1642999137 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1642999137 svg {
+  position: relative;
+  display: block;
+  width: calc(113% + 1.3px);
+  height: 118px;
+}
+
+.custom-shape-divider-top-1642999137 .shape-fill {
+  fill: #0f0f10;
+}
+.custom-shape-divider-top-1643000775 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1643000775 svg {
+  position: relative;
+  display: block;
+  width: calc(148% + 1.3px);
+  height: 53px;
+}
+
+.custom-shape-divider-top-1643000775 .shape-fill {
+  fill: #f3e496;
+}
+.custom-shape-divider-top-1643000094 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1642999271 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1642999271 svg {
+  position: relative;
+  display: block;
+  width: calc(134% + 1.3px);
+  height: 124px;
+}
+
+.custom-shape-divider-top-1642999271 .shape-fill {
+  fill: #92d293;
+}
